@@ -119,7 +119,7 @@ docker-compose logs -f postgresql # dump が完了したことを確認する。
 
 ### add S3 data to local S3 bucket
 
-[minio README.md](/packages/minio/README.md) 参照
+[minio README.md](./packages/minio/README.md) 参照
 
 ### create a staff user for console frontend development
 
